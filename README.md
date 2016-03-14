@@ -1,0 +1,2 @@
+# BeanStyleObjectComparator
+比较两个类似于JavaBean的对象是否相等
