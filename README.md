@@ -1,2 +1,3 @@
 # BeanStyleObjectComparator
 比较两个类似于JavaBean的对象是否相等
+通过将其转换为json/递归比较对象的变量名和值是否相等来判断.
